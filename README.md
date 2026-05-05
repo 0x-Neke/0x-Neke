@@ -1,19 +1,30 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B300FF&center=true&vCenter=true&width=600&lines=Neke_Access_Granted;Malware+and+Ransomware+Dev;Exploiter;RedTeam+and+love+with+OpSec" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=7B00FF&height=200&section=header&text=0x-NEKE&fontSize=70&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <b>MALWARE DEV // EXPLOITER // RED TEAM</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPERATIONS-STEALTH-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TARGET-RANSOMWARE-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge" />
+</p>
 
 ---
 
-### Modules
+### 💀 Offensive Modules
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,py,powershell,linux,docker,git,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,py,powershell,linux,docker,git,vim,metasploit,ansible,mysql&theme=dark" />
 </p>
 
-### Operation Logs
-- **Specialization:** Malware development and ransomware architecture.
-- **Focus:** RedTeam operations and stealth exploitation.
-- **Status:** Active.
+### 📡 Active Logs
+*   **Specialization:** Malware development and ransomware architecture.
+*   **Focus:** RedTeam operations and love with OpSec.
+*   **Methodology:** Exploitation & Lateral Movement.
 
+### 📈 Activity Monitor
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0x-Neke&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>

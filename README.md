@@ -16,7 +16,7 @@
 
 ---
 
-### 💀 Offensive Modules
+###  Offensive Modules
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,py,powershell,linux,docker,git,vim,metasploit,ansible,mysql&theme=dark" />
 </p>
@@ -26,7 +26,7 @@
 * **Focus:** RedTeam operations and love with OpSec.
 * **Methodology:** Exploitation & Lateral Movement.
 
-### 📈 Activity Monitor
+### <3 Activity Monitor
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0x-Neke&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
